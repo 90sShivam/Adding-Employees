@@ -1,0 +1,10 @@
+.danger{
+    color: red;
+    animation: buttons .50s linear;
+    display: none;
+}    
+.success{
+    color: green;
+    animation: buttons .50s linear;
+    display: none;
+}
